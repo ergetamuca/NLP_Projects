@@ -1,3 +1,3 @@
 # NLP_Projects
 
-This repo includes personal projects pursued in NLP. 
+This repo includes topics I'm exploring to improve my skills in NLP. 
